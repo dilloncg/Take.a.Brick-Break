@@ -63,7 +63,7 @@ h1{
   flex-direction: row;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 10px 10px;
+  gap: 20px 20px;
 }
 
 .brick{
